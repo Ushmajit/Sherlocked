@@ -1,0 +1,90 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical">
+
+
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="hk.ust.cse.com107x.sherlocked.question7"
+    android:background="@drawable/background1">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/q7"
+        android:id="@+id/textView6"
+        android:fontFamily="sans-serif-condensed"
+        android:textStyle="normal|bold"
+        android:textSize="45dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bald"
+        android:id="@+id/seven2"
+        android:textSize="35dp"
+        android:fontFamily="sans-serif-condensed"
+        android:checked="false"
+        android:layout_alignTop="@+id/seven1"
+        android:layout_alignRight="@+id/seven4"
+        android:layout_alignEnd="@+id/seven4" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bloat"
+        android:id="@+id/seven3"
+        android:fontFamily="sans-serif-condensed"
+        android:textSize="35dp"
+        android:checked="false"
+        android:layout_below="@+id/textView6"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="25dp"/>
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Voice"
+        android:id="@+id/seven1"
+        android:textSize="35dp"
+        android:fontFamily="sans-serif-condensed"
+        android:checked="false"
+        android:layout_marginTop="40dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@id/seven3"/>
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Castle"
+        android:id="@+id/seven4"
+        android:textSize="35dp"
+        android:fontFamily="sans-serif-condensed"
+        android:checked="false"
+        android:layout_alignTop="@+id/seven3"
+        android:layout_alignRight="@+id/textView6"
+        android:layout_alignEnd="@+id/textView6" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Next"
+        android:id="@+id/next7"
+        android:layout_marginTop="500dp"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>
+</ScrollView>

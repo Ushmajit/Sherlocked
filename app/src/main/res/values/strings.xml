@@ -1,0 +1,199 @@
+<resources>
+    <string name="app_name">Sherlocked</string>
+
+    <string name="hello">Hello! </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_question1">question1</string>
+    <string name="q1">Q. Observe the pattern: T/3/Q/6/N/9/K/12/H/15/E/18/ ??? What comes next in this pattern?
+</string>
+    <string name="q2">Q. If all tugs are fugs, and all fugs are yoms, then all tugs are yoms?
+</string>
+    <string name="q3">Q. A = 3 B = 5 C = 8 Which of these equations do not equal 30?
+</string>
+    <string name="q4">Q. Which of these words of power does not relate to politics?</string>
+    <string name="q5">Q. 2, 6, 1, 3, 0.5, 1.5, ? What is the missing number?
+</string>
+    <string name="q6">Q.The day after the day after tomorrow is four days before Monday. What day is it today?</string>
+    <string name="q7">Q.6121135 is to flame as 21215120 is to ?
+</string>
+    <string name="q8">Q. Which logically is the odd one out?
+</string>
+    <string name="q9">Q.    A Z B Y D W G T ? ?
+                          Which two letters come next?
+</string>
+    <string name="q10">Q. How many times do the hands of a clock coincide in a day?
+    </string>
+    <string name="ques11">Q.John needs 13 bottles of water from the store. John can only carry 3 at a time.
+What is the minimum number of trips John needs to make to the store?
+</string>
+    <string name="q12">Q. Statement: "If you trouble me, I will slap you." - A mother warns her child.
+
+Assumptions:
+
+1. With the warning, the child may stop troubling her.
+2. All children are basically naughty.
+</string>
+    <string name="q13">Q. Which part of the human body has the minimum area of maximum decoration? Answer is in jumbled form.
+</string>
+    <string name="q15">Q. You are driving a car with Sam,John,George and Kevin. The car is travelling with an uniform speed of 60 kmph and
+    the car has travelled 180 km in 3 hours. Calculate the age of the driver?(answer should be in numeric digits)</string>
+    <string name="q14">Q. A programmer can think 100 lines of code in 5 minutes and type 100 lines of code in 10 minutes.
+    If he takes a break of five minutes after every ten minutes, then how many lines of code can he type in an hour?</string>
+    <string name="greet">Greetings from the house fellow jack. Your quest, should you choose to honor the undertaking, shall embark on a
+        journey to unravel the panacea to a series of baffling perplexities that lie in your wake. Here on, we offer you our sincerest wishes
+        for two rounds of bewildering, enigmatic and unfathomable cryptic adventures into finding out the A-game sleuth in you that people must
+        look out for.The mysteries are loaded in two realms that require unparalleled skills of deduction to break through. Each realm has to be conquered by the
+        paragon in your mind palace, the wise man who stands at the front steering. Entry into the next realm is restricted only to those who have
+        what it takes to be a true detective, only if you are able to procure a score that is of significant value following which the next realm
+        await.Lets deduce, detective!</string>
+    <string name="title_activity_question2">question2</string>
+    <string name="title_activity_question3">question3</string>
+    <string name="title_activity_question4">question4</string>
+    <string name="title_activity_question5">question5</string>
+    <string name="title_activity_question6">question6</string>
+    <string name="title_activity_question7">question7</string>
+    <string name="title_activity_question8">question8</string>
+    <string name="title_activity_question9">question9</string>
+    <string name="title_activity_question10">question10</string>
+    <string name="title_activity_question11">question11</string>
+    <string name="title_activity_question12">question12</string>
+    <string name="title_activity_question13">question13</string>
+    <string name="title_activity_question14">question14</string>
+    <string name="title_activity_question15">question15</string>
+    <string name="title_activity_home1">home1</string>
+    <string name="title_activity_score1">Score1</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_levels">Levels</string>
+    <string name="title_activity_level1intro">Level1intro</string>
+    <string name="title_activity_level2intro">level2intro</string>
+    <string name="title_activity_level3intro">level3intro</string>
+    <string name="greetingforlevel1">Hello detective! For your quest, you are given with 15 questions. For each correct answer
+        10 marks will be awarded. For every wrong answer no mark will be given. Once you start taking the test, you cannot
+        save your progress. Your progress can only be saved once you complete answering the given questions.This is just a preliminary IQ test to test your capabilty
+        so that we can give you the responsibilty of brain-storming cases in future.Entry to level two is restricted
+        to agents scoring above 90 in the IQ test.Good Luck!</string>
+    <string name="title_activity_level2q1">level2q1</string>
+    <string name="level2q1a">Intelligence department reviewed the information they had on the case so far.
+
+A lady named monica was found shot and we already had a list of suspects : danny , daniel , dabid , dickinson
+
+</string>
+    <string name="title_activity_level2q1b">level2q1b</string>
+    <string name="level2q1b">Killer challenged us by leaving notes at various places.&#xA;
+        1.The first was found in a drawing room.&#xA;
+2. The second was found in an art room.&#xA;
+3.The third was in a bed room.&#xA;
+4. the fourth in an ice-cream room.&#xA;
+5.The fifth at the desk room.&#xA;
+
+All of the notes read the same thing,The clues are where you find the notes.Still , nothing was found anywhere.Who do you think
+is the killer?</string>
+    <string name="title_activity_level2q2a">level2q2a</string>
+    <string name="level2q2a">There is a man found dead in a circular mansion. The detective interviews the cook, maid, and babysitter. The cook said he couldnt have done it because he was preparing the meal.</string>
+    <string name="level2q2b">The maid said she couldnt have done it because she was dusting the corners. The babysitter said she couldnt because she was playing with the children. Who was lying?</string>
+    <string name="title_activity_level2q2b">level2q2b</string>
+    <string name="title_activity_level2q3a">level2q3a</string>
+    <string name="level2q3a">A man is found dead one Saturday morning. He was killed while his wife was sleeping. The wife tells the police all that she knows.</string>
+    <string name="level2q3b">She tells them that the cook was cooking breakfast, the maid was cleaning and the butler was getting the mail. The police immediately arrest the person who is responsible. Who is responsible?</string>
+    <string name="title_activity_level2q3b">level2q3b</string>
+    <string name="title_activity_level2q4a">level2q4a</string>
+    <string name="level2q4a">There are five people. One of them shot and killed one of the other five.&#xA;
+
+1. Dan ran in the NY City marathon yesterday with one of the innocent men.
+
+</string>
+    <string name="title_activity_level2q4b">level2q4b</string>
+    <string name="level2q4b">2. Mike considered being a farmer before he moved to the city.&#xA;
+3. Jeff is a topnotch computer consultant and wants to install Ben\'s new computer next week.&#xA;
+    4. The murderer had his leg amputated last month.&#xA;
+5. Ben met Jack for the first time six months ago.&#xA;
+6. Jack has been in seclusion since the crime.&#xA;7. Dan used to drink heavily.&#xA;
+        8. Ben and Jeff built their last computers together.&#xA;9. The murderer is Jack\'s brother. They grew up together in Seattle.&#xA;Who killed whom?(answer in this format X killed Y)
+</string>
+    <string name="title_activity_level2q4c">level2q4c</string>
+    <string name="level2q4c">8. Ben and Jeff built their last computers together.&#xA;9. The murderer is Jack\'s brother. They grew up together in Seattle.&#xA;Who was the murderer?
+
+</string>
+    <string name="title_activity_level2q5a">level2q5a</string>
+    <string name="level2q5a">A person was killed in a house party. When police arrives, there are six people present in the house who are the friends of the victim.&#xA;
+</string>
+    <string name="title_activity_level2q5b">level2q5b</string>
+    <string name="level2q5b">The name of the friends are Rohit, Aman, Nick, Gagan and Randy.&#xA;
+
+Near the dead body, they find a few numbers written with blood by the victim on floor. The numbers are 8, 5, 4 and 11.&#xA;
+        Who was the murderer?
+</string>
+    <string name="title_activity_level2q6a">level2q6a</string>
+    <string name="level2q6a">One evening there was a murder in the home of married couple, their son and daughter. One of these four people murdered one of the others. One of the members of the family witnessed the crime.
+
+The other one helped the murderer.
+
+</string>
+    <string name="title_activity_level2q6b">level2q6b</string>
+    <string name="level2q6b">These are the things we know for sure:&#xA;
+
+1. The witness and the one who helped the murderer were not of the same sex.&#xA;
+
+2. The oldest person and the witness were not of the same sex.&#xA;
+
+3. The youngest person and the victim were not of the same sex.&#xA;
+
+4. The one who helped the murderer was older than the victim.&#xA;
+
+5. The father was the oldest member of the family.&#xA;
+
+6. The murderer was not the youngest member of the family.&#xA;
+
+Who was the murderer?
+</string>
+    <string name="title_activity_level2q7a">level2q7a</string>
+    <string name="level2q7a">It\'s been the first day of the school when a young girl was found raped and murdered. Police suspect four male teachers as on the killer and ask them what they were doing in the morning in time 8:00 am.</string>
+    <string name="title_activity_level2q7b">level2q7b</string>
+    <string name="level2q7b">1. Wayne: I was reading the newspaper.&#xA;
+2. Terry: I was checking chemistry papers&#xA;
+3. Bridge: I had locked myself in my room as my wife left me.&#xA;
+4. Cole: I dropped my wife to her office.&#xA;
+</string>
+    <string name="title_activity_level2q8a">level2q8a</string>
+    <string name="level2q8a">The fifth richest man in the Baker Street named Mr. Bill Richman is kidnapped.You are appointed on the case. At the crime scene, a note is found written by Mr. Richman. </string>
+    <string name="title_activity_level2q8b">level2q8b</string>
+    <string name="level2q8b">"First of January, Fourth of October, Fifth of March, Third of June."&#xA;
+Sherlock knew that somehow, the killer name was hidden in the note. The following were the suspects:&#xA;
+Jack Richman, the son and the heir of property.&#xA;
+John Jacobson, the employee of Richman.&#xA;
+June Richman, the wife of Richman.&#xA;
+        Who is the kidnapper?
+</string>
+    <string name="title_activity_level2q9a">level2q9a</string>
+    <string name="level2q9a">Billy "The Knife," the infamous tough guy, was found murdered one night in an alleyway behind the nightclub he used to frequently visit</string>
+    <string name="title_activity_level2q9b">level2q9b</string>
+    <string name="level2q9b">The police brought in three suspects on the next morning. One of the officers interrogated the three men and noted down the following statements.&#xA;
+
+Alex:&#xA;
+1. I did not kill Billy.&#xA;
+2. Jimmy is not my friend.&#xA;
+3. I knew Billy.&#xA;
+
+Jimmy:&#xA;
+1. I did not kill Billy.&#xA;
+2. Alex and Dexter are friends of mine.&#xA;
+        3. Alex did not kill Billy.&#xA;
+</string>
+    <string name="title_activity_level2q9c">level2q9c</string>
+    <string name="level2q9c">Dexter:&#xA;
+1. I did not kill Billy.&#xA;
+2. Alex lied when he said that Jimmy was not his friend.&#xA;
+3. I do not know who killed Billy.&#xA;
+
+Only one of the three is guilty, and only one of each man statements is false. Who killed Billy the Knife ?
+</string>
+    <string name="title_activity_level2q10a">level2q10a</string>
+    <string name="level2q10a">A wealthy woman lives alone in a small cottage. Being partially handicapped she had everything delivered to her cottage. </string>
+    <string name="title_activity_level2q10b">level2q10b</string>
+<string name="level2q10b"> Through the opening he could see the woman\'s body lying in a pool of dried blood. When a police officer arrived he surveyed the scene. On the porch were two bottles of warm milk, Monday\'s newspaper, a catalog, flyers, and unopened mail.It was foul play. Whom do you suspect?</string>
+        <string name="title_activity_levels2">levels2</string>
+        <string name="title_activity_score2">Score2</string>
+    <string name="holamsg">Glad to see you through the first round.Well enough of jibberish talks.It is time to put responsibility
+    on your shoulder.We have 10 unsolved cases and we badly need your help us to solve these cases.&#xA;ALL THE BEST!!&#xA;&#xA;&#xA;Please note: You cannot save your progress once you start the second level</string>
+</resources>

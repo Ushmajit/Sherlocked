@@ -1,0 +1,89 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical">
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="hk.ust.cse.com107x.sherlocked.question14"
+    android:background="@drawable/background1">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/q14"
+        android:id="@+id/textView13"
+        android:layout_marginTop="40dp"
+        android:textSize="25dp"
+        android:textStyle="normal|bold"
+        android:fontFamily="sans-serif-condensed"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="150"
+        android:id="@+id/fourteen1"
+        android:layout_below="@+id/textView13"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="52dp"
+        android:checked="false"
+        android:textSize="25dp"
+        android:fontFamily="sans-serif-condensed" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="200"
+        android:id="@+id/fourteen2"
+        android:checked="false"
+        android:textSize="25dp"
+        android:layout_alignTop="@+id/fourteen1"
+        android:layout_alignRight="@+id/textView13"
+        android:layout_alignEnd="@+id/textView13"
+        android:layout_marginRight="44dp"
+        android:layout_marginEnd="44dp"
+        android:fontFamily="sans-serif-condensed" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="250"
+        android:id="@+id/fourteen3"
+        android:layout_below="@+id/fourteen1"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="48dp"
+        android:checked="false"
+        android:textSize="25dp"
+        android:fontFamily="sans-serif-condensed" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="300"
+        android:id="@+id/fourteen4"
+        android:checked="false"
+        android:textSize="25dp"
+        android:layout_alignTop="@+id/fourteen3"
+        android:layout_alignLeft="@+id/fourteen2"
+        android:layout_alignStart="@+id/fourteen2"
+        android:fontFamily="sans-serif-condensed" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Next"
+        android:id="@+id/next14"
+        android:layout_below="@+id/fourteen4"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>
+</ScrollView>

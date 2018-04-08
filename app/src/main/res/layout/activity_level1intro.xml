@@ -1,0 +1,45 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/level2back1"
+        android:weightSum="1"
+        android:id="@+id/hoo">
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/greetingforlevel1"
+        android:id="@+id/textView16"
+        android:textSize="25dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textColor="#ffffff" />
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/home1"
+            android:id="@+id/levelintro1"
+            android:background="#000000"
+            android:layout_alignParentBottom="true"
+            android:layout_margin="20dp"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center_horizontal"
+             />
+
+    </LinearLayout>
+
+
+</ScrollView>
+

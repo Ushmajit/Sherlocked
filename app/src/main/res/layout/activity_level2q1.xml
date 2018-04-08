@@ -1,0 +1,67 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:fillViewport="true">
+
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/level2back1"
+        android:weightSum="1">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Case-I"
+            android:id="@+id/textView17"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="30dp"
+            android:textSize="45dp"
+            android:textStyle="bold|italic"
+            android:textColor="#ffffffff"
+            android:layout_gravity="center_horizontal" />
+
+        <ImageView
+            android:layout_width="400dp"
+            android:layout_height="250dp"
+            android:id="@+id/imageView"
+            android:background="@drawable/level2q1"
+            android:src="@drawable/level2q1"
+            android:layout_marginTop="30dp"
+            android:layout_centerHorizontal="true"
+            android:scaleType="fitXY"
+            android:layout_weight="0.12" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="@string/level2q1a"
+            android:id="@+id/textView18"
+            android:textSize="20dp"
+            android:textStyle="bold|italic"
+            android:layout_marginTop="22dp"
+            android:layout_centerHorizontal="true"
+            android:textColor="#ffffffff" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/level2q1a"
+            android:layout_below="@id/textView18"
+            android:background="#000"
+            android:layout_marginTop="40dp"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/next"
+             />
+    </LinearLayout>
+</ScrollView>
